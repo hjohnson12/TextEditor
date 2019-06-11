@@ -4,7 +4,7 @@ This application is a text editor written in C# and Windows Forms as part of my 
 for the final project included:
 
 * Simple login program using a SQL local database with Visual Studio. 
-***Link to source***: 
+***Link to source***: https://github.com/hjohnson12/LoginPanel
 * Simple implementation of a file watcher program that watches a source directory for changes and copies the changes to the destination directory. 
 ***Link to source***:  https://github.com/hjohnson12/FileSync
 * Basic application that connects to a ftp server and does simple operations such as read contents in a directory, upload a file, and delete a file.
