@@ -10,7 +10,10 @@ for the final project included:
 * Basic application that connects to a ftp server and does simple operations such as read contents in a directory, upload a file, and delete a file.
 ***Link to source***: https://github.com/hjohnson12/FtpConnect  
 
-### Screenshots
+***This version is not currently being worked on, waiting on XAML Islands release for further update***
+ * This project was re-made into a Windows 10 Universal Windows Platform application a couple years ago when testing with UWP for the first time. It is now being re-made to use the newer framework and controls when free time is available: https://github.com/hjohnson12/NotepadEditorUWP 
+
+### Screenshots of WinForms Version
 
 ##### Standard design for text editor:
 
